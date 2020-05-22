@@ -1,2 +1,2 @@
 KnifeAlert v1.2
-Play a sound when killed with a knife
+The plugin plays sound when killed with a knife and displays a message.
