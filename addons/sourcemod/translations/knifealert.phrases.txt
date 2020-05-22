@@ -1,0 +1,19 @@
+"Phrases"
+{
+	"AlertOff_Check"
+	{
+		"ru"		"{OLIVE}[KA] {DEFAULT}Вы {LIGHTRED}выключили {DEFAULT}звуковые оповещения."
+		"en"		"{OLIVE}[KA] {DEFAULT}You {LIGHTRED}switch off {DEFAULT}sound alerts."
+	}
+	"AlertOn_Check"
+	{
+		"ru"		"{OLIVE}[KA] {DEFAULT}Вы {LIGHTGREEN}включили {DEFAULT}звуковые оповещения."
+		"en"		"{OLIVE}[KA] {DEFAULT}You {LIGHTGREEN}switch on {DEFAULT}sound alerts."
+	}
+	"Alert_Chat"
+	{
+        "#format"   "{1:N},{2:N}"
+		"ru"		"{OLIVE}[KA] {LIGHTGREEN}{1} {DEFAULT}убил ножом {LIGHTGREEN}{2}"
+		"en"		"{OLIVE}[KA] {LIGHTGREEN}{1} {DEFAULT}killed with a knife {LIGHTGREEN}{2}"
+	}
+}
